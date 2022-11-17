@@ -5,4 +5,4 @@ This project was построен с помощью [Create React App](https://g
 
 ### `yarn start`
 
-или посмотреть проект в реальном времени на [github-pages](digidr0.github.io/avito-hacker-news).
+или посмотреть проект в реальном времени на [🔗My Personal website](https://digidr0.github.io/avito-hacker-news)
